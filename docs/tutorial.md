@@ -12,21 +12,21 @@ You will be given access to NVIDIA Grace Hopper nodes on Alps -- an HPE Cray Sup
 | | |
 |---|---|
 | 8:30  | Introduction to uenv and Alps |
-| 9:00  | Logging in to Alps|
-| 9:15  | Hands on |
+| 9:15  | Logging into Alps|
+| 9:30  | Hands on |
 | 10:00 | Coffee Break |
-| 11:00 | Hands on |
-| 11:55 | Wrap up |
+| 10:30 | Hands on |
+| 11:50 | Wrap up |
 | 12:00 | Lunch
 
 
 ## Preparation
 
-The aim of the tutorial is for attendees to get "hands on" time with uenv and Grace-Hopper.
+The aim of the tutorial is for attendees to get "hands on" time with uenv and Grace Hopper.
 The best way to do this is by working with an application that you are familiar with.
 
 !!! warning "BYO test"
-    attendees are required to bring their own application, benchmark or workflow that they would like to test.
+    attendees are encouraged to bring their own application(s), benchmark(s) or workflow(s) that they would like to test.
 
 ## Accessing CSCS
 
