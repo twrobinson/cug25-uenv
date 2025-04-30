@@ -55,7 +55,7 @@ ssh daint.alps
 ```
 
 !!! note ""
-    :exclamation: Replace `<cscsusername>` with the username provided to you by CSCS staff.
+    :exclamation: Replace `<cscsusername>` with the username provided to you by CSCS staff. Note that the passwords end with a trailing minus sign!
 
 ### System Architecture
 
